@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bruce Ediger
+
+Interested in why computer programs and operating systems can do what they do.
 
 <!--
 **bediger4000/bediger4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
