@@ -2,6 +2,9 @@
 
 Interested in why computer programs and operating systems can do what they do.
 
+Is a quine in the Unix text processing language `nroff` possible? A quine that executes a macro, that is.
+
+Let me know, bediger8@gmail.com
 <!--
 **bediger4000/bediger4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
